@@ -2,6 +2,12 @@
 
 It's a LIFO (Last-in First-out) Data structure, all **push** and **pop** operations are to/from the **top** of the stack.
 
+## Run consumer example
+
+``
+npm run js-run-stack
+``
+
 ## {{Add image}}
 
 **Interface:**

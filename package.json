@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "JavaScript playground",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "js-run-stack": "node ./data-structures/consumers/stack.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
