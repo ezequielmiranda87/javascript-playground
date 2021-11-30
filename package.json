@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "js-run-stack": "node ./data-structures/consumers/stack.js",
+    "js-run-stack": "node ./data-structures/demo/stack-consumer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
