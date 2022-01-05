@@ -1,4 +1,4 @@
-import Stack from '../stack/lib/index.js'
+import Stack from '../packages/stack/src/index.js'
 
 // Create stack instance
 const myStack = new Stack();
