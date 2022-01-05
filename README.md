@@ -15,3 +15,7 @@ Feel free to propose any adding or change, this is the idea of this repository.
 
 PD: you like, add a nice song to the PR. :)
 
+
+## References
+
+- https://jsdoc.app/
