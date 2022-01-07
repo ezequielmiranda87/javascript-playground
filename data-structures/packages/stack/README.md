@@ -18,4 +18,3 @@ npm run js-run-stack
 
 ## Stack Uses cases
 
-**Undo:** Track which commands have been executed.  Pop last command off command stack to undo it. 
