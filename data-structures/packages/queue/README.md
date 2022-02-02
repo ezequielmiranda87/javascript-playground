@@ -16,6 +16,8 @@ npm run js-run-queue
 **Interface:**
 - **enqueue** add an item onto the end of the line
 - **dequeue** remove and item from the front of the line
+- **isEmpty:** return true if the queue is empty
+- **front:** return the first element in the queue
 
 ## Stack Uses cases
 

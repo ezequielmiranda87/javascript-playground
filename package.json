@@ -7,6 +7,7 @@
   "scripts": {
     "js-run-stack": "node ./data-structures/demo/stack-consumer.js",
     "js-run-queue": "node ./data-structures/demo/queue-consumer.js",
+    "js-run-linkedList": "node ./data-structures/demo/linked-list-consumer.js",
     "test": "mocha **/*.spec.js"
   },
   "author": "",
