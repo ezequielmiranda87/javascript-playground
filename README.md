@@ -7,6 +7,7 @@ Hi fellows, this repository is meant to play with Javascript/Typescript, Data st
 **Table of Contents**
 - Stack
 - Queue
+- Linked list (Single and Double)
 
 ## Contribute
 
