@@ -8,6 +8,7 @@
     "js-run-stack": "node ./data-structures/demo/stack-consumer.js",
     "js-run-queue": "node ./data-structures/demo/queue-consumer.js",
     "js-run-linkedList": "node ./data-structures/demo/linked-list-consumer.js",
+    "js-run-array": "node ./data-structures/demo/array-consumer.js",
     "test": "mocha **/*.spec.js"
   },
   "author": "",
